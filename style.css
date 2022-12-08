@@ -1,0 +1,55 @@
+#hero {
+  width: auto;
+  height: auto;
+  background: #1446a0;
+}
+
+#hero .container {
+  padding-top: 72px;
+}
+
+#hero h1 {
+  margin: 0 0 10px 0;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 56px;
+  color: #fff;
+}
+
+#hero h2 {
+  color: rgba(255, 255, 255, 0.6);
+  margin-bottom: 50px;
+  font-size: 24px;
+}
+
+#hero img {
+  width: 300px;
+}
+
+#menu {
+  background-color: #676480;
+}
+
+#program-studi {
+  background-color: #676480;
+}
+
+#make-infografis {
+  background-color: #676480;
+}
+
+#footer {
+  width: auto;
+  height: auto;
+  background: #1446a0;
+}
+
+section {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+footer {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
